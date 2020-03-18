@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ramola Shishupal</title>
-    <link>https://ramolashishupal.github.io/</link>
+    <link>https://ramolashishupal.github.io/Portfolio/</link>
     <description>Recent content on Ramola Shishupal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="https://ramolashishupal.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ramolashishupal.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Django App</title>
-      <link>https://ramolashishupal.github.io/blog/firstdjangoapp/</link>
+      <link>https://ramolashishupal.github.io/Portfolio/blog/firstdjangoapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ramolashishupal.github.io/blog/firstdjangoapp/</guid>
+      <guid>https://ramolashishupal.github.io/Portfolio/blog/firstdjangoapp/</guid>
       <description>Hi friends, Today I will tell u guys how you can make an web app using Django in minimal steps so Let&amp;rsquo;s get started&amp;hellip;
 Step No 1: Install Django on your system its very easy for linux users just put following cammands in your terminal
 sudo apt-get install pip # this will install pip in your system python install Django # this will install django in your system  Step No 2: Now make a virtual environment for your project directory so you could put all your code in it</description>
@@ -23,10 +23,10 @@ sudo apt-get install pip # this will install pip in your system python install D
     
     <item>
       <title>Projects</title>
-      <link>https://ramolashishupal.github.io/projects/</link>
+      <link>https://ramolashishupal.github.io/Portfolio/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ramolashishupal.github.io/projects/</guid>
+      <guid>https://ramolashishupal.github.io/Portfolio/projects/</guid>
       <description>Hi friends , Our day to day life we need some sort of mathematics as in any shopping or in any banking transaction so hove you guys do some analysis on it for example : you went to any super market and you pick some breads ,eventually you also picked some better and jam that profit to super market so have you ever think about it how they got to know this &amp;hellip;.</description>
     </item>
     
