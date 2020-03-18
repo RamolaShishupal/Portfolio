@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ramolashishupal.github.io/Portfolio/blog/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ramolashishupal.github.io/Portfolio/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ramolashishupal.github.io/Portfolio/blog/firstdjangoapp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ramolashishupal.github.io/Portfolio/tags/projects/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ramolashishupal.github.io/Portfolio/categories/projects/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ramolashishupal.github.io/Portfolio/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ramolashishupal.github.io/Portfolio/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ramolashishupal.github.io/Portfolio/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
