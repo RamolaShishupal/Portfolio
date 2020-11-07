@@ -3,40 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ramolashishupal.github.io/Portfolio/blog/</loc>
+    <loc>/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ramolashishupal.github.io/Portfolio/categories/</loc>
+    <loc>/tags/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ramolashishupal.github.io/Portfolio/blog/firstdjangoapp/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ramolashishupal.github.io/Portfolio/tags/projects/</loc>
+    <loc>/categories/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ramolashishupal.github.io/Portfolio/categories/projects/</loc>
+    <loc>/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ramolashishupal.github.io/Portfolio/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ramolashishupal.github.io/Portfolio/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ramolashishupal.github.io/Portfolio/tags/</loc>
+    <loc>/tags/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   

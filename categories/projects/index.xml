@@ -2,21 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Ramola Shishupal</title>
-    <link>https://ramolashishupal.github.io/Portfolio/categories/projects/</link>
+    <link>/categories/projects/</link>
     <description>Recent content in Projects on Ramola Shishupal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="https://ramolashishupal.github.io/Portfolio/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projects</title>
-      <link>https://ramolashishupal.github.io/Portfolio/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>https://ramolashishupal.github.io/Portfolio/projects/</guid>
-      <description>Hi friends , Our day to day life we need some sort of mathematics as in any shopping or in any banking transaction so hove you guys do some analysis on it for example : you went to any super market and you pick some breads ,eventually you also picked some better and jam that profit to super market so have you ever think about it how they got to know this &amp;hellip;.</description>
+      <guid>/projects/</guid>
+      <description></description>
     </item>
     
   </channel>
